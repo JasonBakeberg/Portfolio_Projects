@@ -1,4 +1,4 @@
-# 🍽 **Restaurant Sales & Customer Behavior Analysis**  
+# 🍽 **Restaurant Data Analysis Case Study**  
 
 ## 📌 **Overview**  
 This project analyzes restaurant sales data to uncover trends in **revenue, customer behavior, and operational efficiency**. By leveraging **MySQL** for data cleaning and **Tableau** for visualization, I created an **interactive dashboard** that provides actionable insights for restaurant management.
